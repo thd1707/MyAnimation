@@ -8,7 +8,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-    var imageIndex = 7
+    var imageIndex = 1
     @IBOutlet weak var imageView: UIImageView!
     
     @IBAction func button(_ sender: Any) {
